@@ -1,0 +1,10 @@
+{
+    "id": 30,
+    "name": "Mateo Noguera",
+    "lat": 3.4209431423435412,
+    "lng": -76.54273882205509,
+    "photo": "https://randomuser.me/api/portraits/men/38.jpg",
+    "likes": ["Bailar", "Carros"],
+    "dislikes": ["Camisetas Oversize", "Windows 11"],
+    "socialMedia": "@itsmateo_0121"
+}
