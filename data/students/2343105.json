@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "Luis Felipe Garcia Londoño",
+    "lat": 3.4530538896270335,
+    "lng": -76.47236973509204,
+    "photo": "https://randomuser.me/api/portraits/men/7.jpg",
+    "likes": ["Fútbol", "Ver series", "Python"],
+    "dislikes": ["Lluvia en la tarde", "Madrugar"],
+    "socialMedia": "@lfglondono"
+}
