@@ -1,0 +1,10 @@
+{
+    "id": 6,
+    "name": "Keyner Meneses",
+    "lat": 3.37255305545862,
+    "lng": -76.53529711454843,
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": ["brawlsito", "recocha", "vinito cegador"],
+    "dislikes": ["madrugar", "escribir a mano"],
+    "socialMedia": "@keynermeneses"
+}
